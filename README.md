@@ -1,6 +1,8 @@
 # cquad
 Conditional Maximum Likelihood for Quadratic Exponential Models for Binary Panel Data Use cquad With (In) R Software
 
+https://www.youtube.com/watch?v=eQBBTcRhyTk
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
